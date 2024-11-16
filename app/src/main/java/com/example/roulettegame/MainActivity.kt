@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
     private var oldDegree: Int = 0
     private var degree: Int = 0
 
-    private var factor: Float = 4.736842f
+    private var factor: Float = 4.736842f // = 360 / 38 / 2
 
     private val numbers = arrayOf("32 BLACK", "15 RED", "19 BLACK", "4 RED", "21 BLACK", "2 RED",
         "25 BLACK", "17 RED", "34 BLACK", "37 RED", "6 BLACK", "27 RED", "13 BLACK", "36 RED",
